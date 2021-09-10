@@ -1,7 +1,7 @@
 # JsonPowerDB
-Sample code to learn the basic commands in JsonPowerDB
+Sample code to learn the basic CRUD commands in JsonPowerDB
   
- <h2> ABOUT </h2>
+ <h2> ABOUT JsonPowerDB </h2>
   <p>JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.</p>
   <hr>
  <h2> USE CASES </h2>
