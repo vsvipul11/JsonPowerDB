@@ -30,3 +30,5 @@ Sample code to learn the basic commands in JsonPowerDB
                         <li> Multiple security layers.</li>
                         <li> Nimble, Simple to use, In Memory, Real-time DBMS.</li>
                     </ul>
+  <h2>Release Notes</h2>
+<b>v0.3.2.20210410.2427 beta</b>
